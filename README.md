@@ -57,4 +57,3 @@ An interactive map visualization of the computed routes is available.
 
 [**Click here to open the Interactive Map**](https://vkas-chaurasia.github.io/HeuristicsAlgorithmCVRPSolver/map.html)
 
-*(Note: This link requires **GitHub Pages** to be enabled for the repository. If the link returns a 404, please enable GitHub Pages in the repository settings: Settings > Pages > Source: "main branch".)*
