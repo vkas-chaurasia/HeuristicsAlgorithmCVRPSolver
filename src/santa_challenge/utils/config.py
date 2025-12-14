@@ -1,0 +1,4 @@
+# Global Constants
+NORTH_POLE = (90, 0)
+SLEIGH_WEIGHT = 10
+WEIGHT_LIMIT = 1000
