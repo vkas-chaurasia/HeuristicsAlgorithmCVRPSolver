@@ -31,9 +31,9 @@ This is a "greedy" approach because it makes the locally optimal choice at every
 
 ### 2. Optimization: KD-Tree (k-Dimensional Tree)
 Searching for the "nearest neighbor" among 100,000 gifts linearly would be slow ($O(N)$ per step, total $O(N^2)$).
-To optimize this, we use a **KD-Tree**:
+To optimize this, use a **KD-Tree**:
 -   **Preprocessing**: All gift coordinates are indexed in a KD-Tree ($O(N \log N)$).
--   **Querying**: We query the tree for the $k$ nearest neighbors to the current location ($O(\log N)$).
+-   **Querying**: query the tree for the $k$ nearest neighbors to the current location ($O(\log N)$).
 -   **Dynamic Search Radius**: If valid neighbors are not found in the initial $k$, the search radius is dynamically expanded.
 
 ## Usage
