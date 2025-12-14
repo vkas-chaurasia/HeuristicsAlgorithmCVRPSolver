@@ -53,7 +53,6 @@ To optimize this, we use a **KD-Tree**:
 
 ## Visualization
 
-An interactive map visualization of the computed routes is available.
+An interactive map visualization of the computed routes is available at map.html
 
-[**Click here to open the Interactive Map**](https://vkas-chaurasia.github.io/HeuristicsAlgorithmCVRPSolver/map.html)
 
