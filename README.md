@@ -1,6 +1,6 @@
 # Santa Challenge - Heuristic Algorithms Course
 
-This repository contains a solution for the Santa Challenge, developed as part of the **Heuristic Algorithms** course. It demonstrates the application of constructive heuristics and spatial data structures to solve a large-scale Vehicle Routing Problem (VRP).
+This repository contains a solution for the Santa Challenge, developed as part of the **Heuristic Algorithms** course (3 ECTS credits). It demonstrates the application of constructive heuristics and spatial data structures to solve a large-scale Vehicle Routing Problem (VRP).
 
 ## Project Structure
 
