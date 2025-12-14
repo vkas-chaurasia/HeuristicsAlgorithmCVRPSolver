@@ -53,8 +53,8 @@ To optimize this, we use a **KD-Tree**:
 
 ## Visualization
 
-An interactive map visualization of the computed routes is available in `map.html`.
+An interactive map visualization of the computed routes is available.
 
-[**Click here to open the Interactive Map**](map.html)
+[**Click here to open the Interactive Map**](https://vkas-chaurasia.github.io/HeuristicsAlgorithmCVRPSolver/map.html)
 
-*(Note: The map requires JavaScript and cannot be embedded directly in this README on GitHub. If viewing on GitHub, you may need to download the file or view it via a specialized HTML preview service.)*
+*(Note: This link requires **GitHub Pages** to be enabled for the repository. If the link returns a 404, please enable GitHub Pages in the repository settings: Settings > Pages > Source: "main branch".)*
