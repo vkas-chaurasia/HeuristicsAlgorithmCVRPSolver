@@ -50,3 +50,11 @@ To optimize this, we use a **KD-Tree**:
 
 3.  **Output**:
     The solution file `submission.csv` will be saved in the `results/` folder. The total Weighted Reindeer Weariness score will be printed to the console.
+
+## Visualization
+
+An interactive map visualization of the computed routes is available below (for local preview). You can also [open map.html](map.html) directly in your browser.
+
+<iframe src="map.html" width="100%" height="600px" style="border:none;">
+    <a href="map.html">Open map.html</a>
+</iframe>
