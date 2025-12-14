@@ -19,7 +19,7 @@ The project is organized to separate the algorithmic core from utility functions
 
 ## Algorithm Description
 
-The problem is modeled as a Capacitated Vehicle Routing Problem (CVRP) on a sphere. We implemented a **Constructive Greedy Heuristic** to generate a feasible solution efficiently.
+The problem is modeled as a Capacitated Vehicle Routing Problem (CVRP) on a sphere. I implemented a **Constructive Greedy Heuristic** to generate a feasible solution efficiently.
 
 ### 1. Heuristic Strategy: Greedy Nearest Neighbor
 The algorithm builds routes (trips) sequentially. For each step:
