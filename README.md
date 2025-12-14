@@ -53,8 +53,8 @@ To optimize this, we use a **KD-Tree**:
 
 ## Visualization
 
-An interactive map visualization of the computed routes is available below (for local preview). You can also [open map.html](map.html) directly in your browser.
+An interactive map visualization of the computed routes is available in `map.html`.
 
-<iframe src="map.html" width="100%" height="600px" style="border:none;">
-    <a href="map.html">Open map.html</a>
-</iframe>
+[**Click here to open the Interactive Map**](map.html)
+
+*(Note: The map requires JavaScript and cannot be embedded directly in this README on GitHub. If viewing on GitHub, you may need to download the file or view it via a specialized HTML preview service.)*
